@@ -2,8 +2,6 @@
 
 ## Project
 
-Hello, Cube!
-
 ## Versions
 
 ### Unity
@@ -19,7 +17,6 @@ v0.23.0
 0.98.x
 
 ## Instructions After Downloading
-
 1) Using Unity Hub, download Unity 2019.2.x and make sure Lumin support is checked during installation
 2) `ADD` the project using Unity Hub
 3) Open the project using Unity Hub
