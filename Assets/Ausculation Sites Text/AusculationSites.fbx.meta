@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 996c863f0668282408025fceae446139
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Aortic Area
+    100002: //RootNode
+    100004: Erb's Point
+    100006: Line1
+    100008: Line2
+    100010: Line3
+    100012: Line4
+    100014: Line5
+    100016: Mitral Area
+    100018: Pulmonic Area
+    100020: Sphere01
+    100022: Sphere02
+    100024: Sphere03
+    100026: Sphere04
+    100028: Sphere05
+    100030: Tricuspid Area
+    400000: Aortic Area
+    400002: //RootNode
+    400004: Erb's Point
+    400006: Line1
+    400008: Line2
+    400010: Line3
+    400012: Line4
+    400014: Line5
+    400016: Mitral Area
+    400018: Pulmonic Area
+    400020: Sphere01
+    400022: Sphere02
+    400024: Sphere03
+    400026: Sphere04
+    400028: Sphere05
+    400030: Tricuspid Area
+    2100000: No Name
+    2300000: Aortic Area
+    2300002: Erb's Point
+    2300004: Line1
+    2300006: Line2
+    2300008: Line3
+    2300010: Line4
+    2300012: Line5
+    2300014: Mitral Area
+    2300016: Pulmonic Area
+    2300018: Sphere01
+    2300020: Sphere02
+    2300022: Sphere03
+    2300024: Sphere04
+    2300026: Sphere05
+    2300028: Tricuspid Area
+    3300000: Aortic Area
+    3300002: Erb's Point
+    3300004: Line1
+    3300006: Line2
+    3300008: Line3
+    3300010: Line4
+    3300012: Line5
+    3300014: Mitral Area
+    3300016: Pulmonic Area
+    3300018: Sphere01
+    3300020: Sphere02
+    3300022: Sphere03
+    3300024: Sphere04
+    3300026: Sphere05
+    3300028: Tricuspid Area
+    4300000: Mitral Area
+    4300002: Tricuspid Area
+    4300004: Erb's Point
+    4300006: Pulmonic Area
+    4300008: Aortic Area
+    4300010: Line1
+    4300012: Sphere01
+    4300014: Sphere02
+    4300016: Sphere03
+    4300018: Sphere04
+    4300020: Sphere05
+    4300022: Line2
+    4300024: Line3
+    4300026: Line4
+    4300028: Line5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

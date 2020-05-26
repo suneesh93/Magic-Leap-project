@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Buttons Collider
+  - Models Collider
+  - Sounds Collider
+  - Lung Sounds Collider
+  - Heart Sounds Collider
+  - Stop Heart Sounds Collider
+  - Bronchial Collider
+  - BronchoVesicular Collider
+  - Tracheal Collider
+  - Vesicular Collider
+  - Wheezing Collider
+  - Stop Lung Sounds Collider
+  - Lungs Collider
+  - Heart Collider
+  - Ribs Collider
+  - Chest Collider
+  - Barrel Chest Collider
+  - Guide Collider
+  - Hide Collider
+  - AusculationSites
+  - BarrelChestFBX
+  - ChestFBX
+  - SK_Lungs
+  - real heart animated
+  - StockRibs_FBX
+  - Hide Guide Collider
+  - Defective Lungs Collider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
