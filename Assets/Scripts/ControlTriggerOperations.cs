@@ -320,15 +320,26 @@ public class ControlTriggerOperations : MonoBehaviour
                     //case "Ribs Collider":
                     if (hit.transform.gameObject.tag == "Ribs Collider")
                     {
-                        GameObject.Find("StockRibs_FBX").GetComponent<MeshRenderer>().enabled = true;
-                        GameObject.Find("clavicleL").GetComponent<MeshRenderer>().enabled = true;
-                        GameObject.Find("clavicleR").GetComponent<MeshRenderer>().enabled = true;
-                        //collider
-                        GameObject.Find("StockRibs_FBX").GetComponent<MeshCollider>().enabled = true;
-                        GameObject.Find("clavicleL").GetComponent<MeshCollider>().enabled = true;
-                        GameObject.Find("clavicleR").GetComponent<MeshCollider>().enabled = true;
+                    
+                    GameObject.Find("StockRibs_FBX").GetComponent<MeshRenderer>().enabled = true;
+                    GameObject.Find("clavicleL").GetComponent<MeshRenderer>().enabled = true;
+                    GameObject.Find("clavicleR").GetComponent<MeshRenderer>().enabled = true;
+                    //collider
+                    GameObject.Find("StockRibs_FBX").GetComponent<MeshCollider>().enabled = true;
+                    GameObject.Find("clavicleL").GetComponent<MeshCollider>().enabled = true;
+                    GameObject.Find("clavicleR").GetComponent<MeshCollider>().enabled = true;
+                    
+
+                    //new ribs:
+                    /*
+                    GameObject.Find("NewRibs").GetComponent<MeshCollider>().enabled = true;
+                    GameObject.Find("default").GetComponent<MeshRenderer>().enabled = true;
+                    GameObject.Find("default").GetComponent<MeshCollider>().enabled = true;
+                    */
+
                     }
-                                        
+
+                        
 
                     //case "Guide Collider":
                     if (hit.transform.gameObject.tag == "Guide Collider")

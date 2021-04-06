@@ -60,6 +60,14 @@ public class Control6DOF : MonoBehaviour
             RaycastHit hit;
             if (Physics.Raycast(transform.position, transform.forward, out hit))
             {
+                if (hit.transform.gameObject.tag == "NewRibs")
+                {
+
+                    GameObject.Find("NewRibs").GetComponent<MeshCollider>().enabled = false;
+                    GameObject.Find("default").GetComponent<MeshRenderer>().enabled = false;
+                    GameObject.Find("default").GetComponent<MeshCollider>().enabled = false;
+                }
+
                 //hit.transform.gameObject.SetActive(false);
                 if (hit.transform.gameObject.tag == "StockRibs_FBX")
                 {

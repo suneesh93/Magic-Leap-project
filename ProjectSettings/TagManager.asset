@@ -31,6 +31,7 @@ TagManager:
   - StockRibs_FBX
   - Hide Guide Collider
   - Defective Lungs Collider
+  - NewRibs
   layers:
   - Default
   - TransparentFX
